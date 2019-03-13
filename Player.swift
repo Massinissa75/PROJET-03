@@ -16,31 +16,22 @@ class Player {
     
     func creatTeam (){
         print(" veuillez choisir parmis les personnages suivant !")
-        
-        switch Character {
-        case <#pattern#>:
-            <#code#>
-        default:
-            <#code#>
-        }
+     
         
         // afficher les personnages existant
         
-        func getCharacter () -> Character {
+
        
         
         
         // ecouter l'entree clavier pour le choix d'un personnage
             
-            // On récupère la réponse de l'utilisateur
-            if let choice = readLine() {
-                switch choice {
-                case "1": // Ajouter une nouvelle activité
-                
+          
         
         // repeter l'operation jusqu'a ce que on est 3 personnages dans l'equipe
         
     }
     
 }
-}
+
+
